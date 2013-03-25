@@ -1,6 +1,6 @@
 {
     "name" : "awssum-amazon-sts",
-    "description" : "NodeJS module to talk to Amazon Simple Token Service (STS).",
+    "description" : "AwsSum plugin for Amazon Simple Token Service (STS).",
     "version" : "1.0.0",
 
     "main" : "awssum-amazon-sts.js",
