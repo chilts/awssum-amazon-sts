@@ -1,7 +1,7 @@
 {
   "name": "awssum-amazon-sts",
   "description": "AwsSum plugin for Amazon Simple Token Service (STS).",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "main": "awssum-amazon-sts.js",
   "engines": {
     "node": ">= 0.6.0"
